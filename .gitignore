@@ -39,3 +39,7 @@ doc/api/
 # Built Visual Studio Code Extensions
 *.vsix
 .gitignore
+
+
+.idea
+.metadata
